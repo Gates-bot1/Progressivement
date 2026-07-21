@@ -1,0 +1,4 @@
+ccxt==4.3.42
+numpy==1.26.4
+python-dotenv==1.0.1
+google-generativeai>=0.7.0
